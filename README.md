@@ -62,7 +62,6 @@ To create an image classification model that can automatically identify the ripe
 soursop-ripeness-cnn/
 ├── README.md
 ├── soursop-ripeness-cnn.ipynb # Main notebook
-├── thesis-soursop-cnn.pdf # Full thesis (in Bahasa Indonesia)
 ├── presentation-soursop-cnn.pdf # Final defense slides
 └── data/
 ├── unripe.jpg
