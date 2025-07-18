@@ -101,3 +101,8 @@ Special thanks to:
 - Dr. Sri Andayani, S.Si., M.Kom (Thesis Advisor)
 - Mentors and friends from the BRI internship program
 - All individuals who helped during data collection and model development
+
+
+## 📫 Contact
+
+Find me on [LinkedIn](https://www.linkedin.com/in/kharismanuraisyah/)
